@@ -1,0 +1,13 @@
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.csprojAssemblyReference.cache
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.Login.resources
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.Properties.Resources.resources
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.csproj.GenerateResource.cache
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.csproj.CoreCompileInputs.cache
+E:\C#Practice\StuManger\StuManger\bin\Debug\StuManger.exe.config
+E:\C#Practice\StuManger\StuManger\bin\Debug\StuManger.exe
+E:\C#Practice\StuManger\StuManger\bin\Debug\StuManger.pdb
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.exe
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.pdb
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.Form1.resources
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.AddStudent.resources
+E:\C#Practice\StuManger\StuManger\obj\Debug\StuManger.UpdateStudent.resources
